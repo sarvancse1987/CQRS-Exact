@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uFMWvLbfOB8JxAriW0hR25VHTMFh4zjmPnP3FEt+U/a/D+51Wj4iipKN5LibKyhA7RTzkudevbaVvaZh5TGCFQ==",
+  "success": true,
+  "projectFilePath": "F:\\CQRS-1\\CQRS.Service\\CQRS.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saravanan.thangavel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

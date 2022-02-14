@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oCe5UUHkc3p4G5Tlhe72tACH5fYlFkK5ojN1nau25Rhj7/EJs2MND3TyA81TIYGx70MspDtLbKx28lfIFVV0gg==",
+  "success": true,
+  "projectFilePath": "F:\\CQRS-1\\CQRS.API\\CQRS.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saravanan.thangavel\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\saravanan.thangavel\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\saravanan.thangavel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\saravanan.thangavel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\saravanan.thangavel\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\saravanan.thangavel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
